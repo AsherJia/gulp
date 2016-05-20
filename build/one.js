@@ -1,0 +1,1 @@
+(function(){var n,o;o=function(n){return n*n},n=function(n){return o(n)*n},console.log("ss","sdf"),console.log(o(20),o(30))}).call(this);
